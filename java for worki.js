@@ -18,7 +18,7 @@
 
       nextYear = yyyy + 1,
 
-      dayMonth = "03/15/24", 
+      dayMonth = "03/15/", // Дата окончания 
 
       date = dayMonth + yyyy;
 
