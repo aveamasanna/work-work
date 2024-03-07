@@ -91,13 +91,13 @@ button.onclick = function() {
 
 
 
-    if (button.innerHTML === 'узнать') {
+    if (button.innerHTML === 'скрыть') {
 
-        button.innerHTML = 'скрыть';
+        button.innerHTML = 'узнать';
 
     } else {
 
-        button.innerHTML = 'узнать';
+        button.innerHTML = 'скрыть';
 
     }
 
