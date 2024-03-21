@@ -237,7 +237,7 @@ h1,
 
 h2 {
 
-  font-size: 6 em;
+  font-size: 6.6em;
 
 }
 .list li {
@@ -480,6 +480,14 @@ input:checked + .slider:before {
   flex-wrap: wrap;
 
 }
+div.img {
+	margin-top: -150px;
+
+ margin-left: -110px;
+
+
+ width: 40%;
+} 
 footer {
 	color: #9DB8E7
 }
