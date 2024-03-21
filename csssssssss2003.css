@@ -481,9 +481,9 @@ input:checked + .slider:before {
 
 }
 div.img {
-	margin-top: 150px;
+	margin-top: -150px;
 
- margin-left: 110px;
+ margin-left: -110px;
 
 
  width: 40%;
