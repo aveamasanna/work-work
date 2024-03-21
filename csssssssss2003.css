@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,600,700");
+@import url("https://fonts.googleapis.com/css?family=CenturyGothic:400,500,600,700");
 header #headline, header #circular-bg {
 
   position: absolute;
@@ -18,14 +18,14 @@ header #headline, header #circular-bg {
 
   text-decoration: none;
 
-  color: #fff;
+  color: #FFCEF3;
 
 }
 body {
 
   background-image: url("https://raw.githack.com/aveamasanna/work-work/main/skin%20care%20bottles.webp");
 
-  font-family: "Roboto", sans-serif;
+  font-family: "Century Gothic", sans-serif;
 
   overflow: auto;
 
@@ -51,11 +51,11 @@ header .info p {
 }
 header #circular-bg {
 
-  width: 85vw;
+  width: 50vw;
 
-  height: 85vw;
+  height: 50vw;
 
-  background: CadetBlue;
+  background: #FFCEF3;
 
   border-radius: 50%;
 
@@ -95,7 +95,7 @@ header #TheAct {
 }
 header #brand:before {
 
-  content: "";
+  content: "??";
 
   position: absolute;
 
@@ -143,7 +143,7 @@ header #headline {
 
 header #headline:before {
 
-  content: "";
+  content: "????";
 
   position: absolute;
 
@@ -151,7 +151,7 @@ header #headline:before {
 
   height: 4px;
 
-  background: #fff;
+  background: #FFCEF3;
 
   top: 22%;
 
@@ -163,7 +163,7 @@ header #headline:before {
 
 header #headline:after {
 
-  content: "Pipupu.";
+  content: "СОЛЯНОЙ АНТИЦЕЛЛЮЛИТНЫЙ СКРАБ THE ACT";
 
   position: absolute;
 
@@ -184,7 +184,7 @@ header button {
 
   height: 50px;
 
-  background: #00cc99;
+  background: #AACFD0;
 
   border: none;
 
@@ -214,7 +214,7 @@ header button {
 
   height: 100%;
 
-  background-color: CadetBlue;
+  background-color: #FFCEF3;
 
   display: flex;
 
@@ -334,7 +334,7 @@ label {
 }
 .button1 {
 
-  background-color: #00cc99;
+  background-color: #AACFD0;
 
   box-shadow: 0 0 10px 0 #00cc99 inset, 0 0 20px 2px #00cc99;
 
@@ -344,7 +344,7 @@ label {
 
 .button2 {
 
-  background-color: #00cc99;
+  background-color: #AACFD0;
 
   box-shadow: 0 0 10px 0 #00cc99 inset, 0 0 20px 2px #00cc99;
 
@@ -430,7 +430,7 @@ label {
 
 input:checked + .slider {
 
-  background-color: #50bfe6;
+  background-color: #F5B2B2;
 
 }
 
@@ -438,7 +438,7 @@ input:checked + .slider {
 
 input:focus + .slider {
 
-  box-shadow: 0 0 1px #50bfe6;
+  box-shadow: 0 0 1px #F5B2B2;
 
 }
 
