@@ -85,9 +85,9 @@ header #brand {
   font-size: 90px;
 
   font-weight: 600;
-	position: right; 
+	position: absolut; 
 
-  left: 10vw;
+  padding-left: 50px;
 
   top: 30%;
 
