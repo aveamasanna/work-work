@@ -85,7 +85,6 @@ header #brand {
   font-size: 120px;
 
   font-weight: 700;
-position: right; 
 
   left: -50vw;
 
@@ -229,14 +228,14 @@ header button {
 
   flex-wrap: wrap;
 
-  color: #f4f4f4;
+  color: #white;
 
 }
 h1,
 
 h2 {
 
-  font-size: 5.5em;
+  font-size: 2.5em;
 
 }
 .list li {
@@ -245,7 +244,7 @@ h2 {
 
   list-style: none;
 
-  border-bottom: 1px solid #f4f4f4;
+  border-bottom: 1px solid #white;
 
   padding-inline-start: 0;
 
@@ -259,7 +258,7 @@ h2 {
 
   margin-top: 40px;
 
-  border-top: 1px solid #f4f4f4;
+  border-top: 1px solid #white;
 
 }
 
