@@ -82,14 +82,14 @@ header nav a {
 }
 header #brand {
 
-  font-size: 140px;
+  font-size: 120px;
 
   font-weight: 600;
-	position: absolut; 
+	position: absolute; 
 
   padding-left: 60px;
 
-  padding-top: 300px;
+  padding-top: 250px;
 
 }
 header #brand:before {
