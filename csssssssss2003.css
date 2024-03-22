@@ -85,6 +85,7 @@ header #brand {
   font-size: 120px;
 
   font-weight: 700;
+position: right; 
 
   left: -50vw;
 
