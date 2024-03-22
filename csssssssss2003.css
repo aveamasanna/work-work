@@ -82,14 +82,14 @@ header nav a {
 }
 header #brand {
 
-  font-size: 120px;
+  font-size: 90px;
 
-  font-weight: 700;
+  font-weight: 600;
 	position: right; 
 
-  left: -60vw;
+  left: 10vw;
 
-  top: 25%;
+  top: 30%;
 
 }
 header #brand:before {
