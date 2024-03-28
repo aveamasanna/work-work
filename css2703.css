@@ -105,7 +105,7 @@ html {
 
   left: auto;
 
-  color: #fff;
+  color: white;
 
   display: block;
 
@@ -131,6 +131,7 @@ html {
   text-align: center;
 
   border-radius: 50%;
+	
   background-color: white;
 
 }
@@ -138,9 +139,9 @@ html {
 
   content: '';
 
-  background: #fff;
+  background: white;
 
-  color: #fff;
+  color: white;
 
   height: 2px;
 
